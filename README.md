@@ -28,5 +28,5 @@ Follow these steps to get the One-Day Tour Planning Application running locally.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ankush-kadu/One-Day-Tour-Planning-Application.git
+   https://github.com/Nitin13-git/One-Day-Tour-Planning-Application-Question
    cd One-Day-Tour-Planning-Application
